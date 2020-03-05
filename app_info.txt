@@ -1,0 +1,3 @@
+Plataforma web desenvolvida ao longo da disciplina de programação web.
+
+Rede social para fotógrafos
